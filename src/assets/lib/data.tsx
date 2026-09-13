@@ -310,23 +310,18 @@ export const FooterLinks = [
 ] as const;
 
 export const sideBarRightMail = {
-  link: "mailto:myemail@com",
-  text: "myemail@com",
+  link: "mailto:edizgundogdu618@gmail.com",
+  text: "edizgundogdu618@gmail.com",
 } as const;
 
 export const sideBarLeftSocials = [
   {
-    link: "https://www.linkedin.com/in/alpay/",
+    link: "https://www.linkedin.com/in/edizgndd/",
     icon: FiLinkedin,
     altimgname: "linkedin",
   },
   {
-    link: "https://github.com/AlpayC",
-    icon: FiGithub,
-    altimgname: "github",
-  },
-  {
-    link: "mailto:myemail@com",
+    link: "mailto:edizgundogdu618@gmail.com",
     icon: FiMail,
     altimgname: "mail",
   },
